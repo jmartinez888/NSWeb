@@ -1,4 +1,4 @@
-# Framework_mvc_php_multi-idioma
+# Framework_mvc_php
 Framework MVC desde cero en php con multi-idioma y gestor de páginas estáticas.
 
 Este Framework está basado en el ejemplo desarrollado por [dlancedu](http://www.dlancedu.com/framework-mvc-b%C3%A1sico.html) puedes ver la creación del Framework Básico desde cero en el [canal de dlancedu](https://www.youtube.com/watch?v=BO2lzbSNvy0&list=PLMVWdD5bcndrmfgQdYeZqTx-OP8SQilJK).
